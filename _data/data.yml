@@ -4,26 +4,18 @@ fork: true
 
 # Sidebar
 contact:
-  email: info@johndoe.com
-  github: johndoe
-  linkedin: johndoe
-  phone: 
-  gitlab: 
-  twitter: 
+  email: guiaraujooliveira2@gmail.com
+  github: Guiaraujo3145
+  phone: +55 (84) 99115-6482
 
 languages:
+  - idiom: Portuguese
   - idiom: English
-  - idiom: Russian
-  - idiom: French
-
+  
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
-
-  - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
+  - degree: I.T in Informatics
+    time: 2023-2024
+    university: IFRN campus Mossoró
 
 skills:
   - category: Backend
